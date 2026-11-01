@@ -40,8 +40,6 @@ DecodeLabs-Week1-Password-Strength-Checker/
 ├── tests/
 │   └── test_password.py
 │
-├── screenshots/
-│
 ├── README.md
 ├── .gitignore
 └── LICENSE
