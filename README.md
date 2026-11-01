@@ -49,13 +49,10 @@ DecodeLabs-Week1-Password-Strength-Checker/
 
 ## 📷 Screenshots
 
-The `screenshots` folder includes images showing:
+The `screenshots images showing:
 
-- Password checker program output.
-- Examples of weak, medium, and strong passwords.
+- Password checker program output
 - Unit testing results.
-- Project structure and code execution.
-
 ---
 
 ## 🎯 Learning Outcomes
